@@ -1,0 +1,21 @@
+- git clone 'link' _______________ clonar um repositorio
+
+- git add * ______________________ adicionar as mudanças feitas para serem enviadas para o github
+
+- git status _____________________ ver o que está sendo enviado
+
+- git commit -m "alguma mensagem"  _____________ adiciona os arquivos para a transferencia no github
+
+- git push -u origin master ____________________ envia os arquivos para o github
+
+
+
+
+
+
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Depois que já tiver os arquivos na pasta e alguém tiver feito alguma mudança e tu não tiver os arquivos, esse comando é usado:
+
+- git pull ___________________________ puxa todos os novos arquivos e mudanças no projeto
