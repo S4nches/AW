@@ -27,7 +27,6 @@
 
 body{
 	background-image: linear-gradient(to right, darkgray , white 80%);
-	overflow: hidden;
 }
 
 .table{
@@ -49,7 +48,7 @@ body{
 .content{
 	margin-left: 25%;
 	margin-top: 0%;
-	margin-bottom: 4%; 
+	margin-bottom: 0%; 
 }
 .talk_us{
 	font-family: 'Merriweather Sans', sans-serif;
@@ -94,7 +93,6 @@ body{
 
 .button:hover{
 	color: aliceblue;
-	background-color:gray;
 }
 
 .social{
@@ -134,4 +132,5 @@ body{
 	text-align: center;
 	font-family: 'Baloo Tammudu 2', cursive;
 	font-size: 15px;
+	margin-bottom: 0%;
 }
