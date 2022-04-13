@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	color: Gainsboro;
+	background-image: linear-gradient(to right, #062c3b 36%, DodgerBlue , black);
+	text-align: left;
+	top: 0;
+	width:100%;
+	left: 0;
+	position: fixed;
+}
+
+
+.primary-header h1{
+	margin-bottom: auto;
+}
+
+.div{
+	display: inline;
+	margin-right: 10%;
+	
+}
+
+body{
+	background-image: linear-gradient(to right, darkgray , white 80%);
+}
+
+.table{
+	margin-top: 0%;
+}
+
+.map{
+	margin-left: 34%;
+}
+
+.miniatura{
+	width:60%;
+}
+
+#line1{
+	margin-left: -13%;
+}
+
+.content{
+	margin-left: 25%;
+	margin-top: 0%;
+	margin-bottom: 4%; 
+}
+.talk_us{
+	font-family: Helvetica Neue;
+	margin-left: 42%;
+	margin-top: 12%;
+}
+.primary-header h3{
+	margin-top: auto;
+}
+
+.line{
+	width: 75%;
+}
+.button{
+	text-decoration: none;
+	font-family: Franklin Gothic;
+	font-size: 17px; 
+	color: black;
+	margin-left: 15px;
+}
+
+.links{
+	background-size: auto;
+	border:hidden;
+	background-color: lightgray;
+	background-image: linear-gradient(to right, darkgray , white 80%);
+}
+
+.button:hover{
+	color: aliceblue;
+	background-color:gray;
+}
+
+.social{
+	color: Gainsboro;
+}
+
+
+.footer{
+	color: Gainsboro;
+	background-image: linear-gradient(to right, #062c3b 36% , DodgerBlue , black);
+	text-align: left;
+	bottom:0;
+	width:100%;
+	left: 0;
+	position: fixed;
+}
+
+
+.credits{
+	font-size: 10px;
+	text-align: left;
+	margin-left: 30px;
+	margin-bottom: 5px;
+}
+
+
+.copyright{
+	margin-left: 30px;
+}
+
+.table_info{
+	margin-left: -10%
+}
