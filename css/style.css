@@ -10,6 +10,10 @@
 	position: fixed;
 }
 
+.logo{
+	width: 12%;
+	height: 12%;	
+}
 
 .primary-header h1{
 	margin-bottom: auto;
@@ -23,6 +27,7 @@
 
 body{
 	background-image: linear-gradient(to right, darkgray , white 80%);
+	overflow: hidden;
 }
 
 .table{
@@ -30,7 +35,7 @@ body{
 }
 
 .map{
-	margin-left: 34%;
+	margin-left: 9.5%;
 }
 
 .miniatura{
@@ -47,10 +52,24 @@ body{
 	margin-bottom: 4%; 
 }
 .talk_us{
-	font-family: Helvetica Neue;
-	margin-left: 42%;
-	margin-top: 12%;
+	font-family: 'Merriweather Sans', sans-serif;
+	margin-left: 19%;
+	margin-top: 8%;
 }
+
+.message_text{
+	font-family: 'Baloo Tammudu 2', cursive;	
+	font-size: 20px;
+	margin-left: 25%;
+}
+
+.wpp_img{
+	width: 15%;
+	height: 15%;
+	margin-bottom: 1%;
+	margin-left: -15%;
+}
+
 .primary-header h3{
 	margin-top: auto;
 }
@@ -60,8 +79,8 @@ body{
 }
 .button{
 	text-decoration: none;
-	font-family: Franklin Gothic;
-	font-size: 17px; 
+	font-family: 'Merriweather Sans';
+	font-size: 15px; 
 	color: black;
 	margin-left: 15px;
 }
@@ -70,7 +89,7 @@ body{
 	background-size: auto;
 	border:hidden;
 	background-color: lightgray;
-	background-image: linear-gradient(to right, darkgray , white 80%);
+	background-image: linear-gradient(to right, gray , lightgray 60%, gray );
 }
 
 .button:hover{
@@ -86,11 +105,13 @@ body{
 .footer{
 	color: Gainsboro;
 	background-image: linear-gradient(to right, #062c3b 36% , DodgerBlue , black);
-	text-align: left;
+	text-align: center;
 	bottom:0;
 	width:100%;
+	height: 4%; 
 	left: 0;
 	position: fixed;
+	
 }
 
 
@@ -98,14 +119,19 @@ body{
 	font-size: 10px;
 	text-align: left;
 	margin-left: 30px;
-	margin-bottom: 5px;
+	bottom: 5px;
 }
 
 
 .copyright{
 	margin-left: 30px;
+	font-size: 12px;
+	font-family: 'Baloo Tammudu 2', cursive;
 }
 
 .table_info{
-	margin-left: -10%
+	margin-left: -17%;
+	text-align: center;
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-size: 15px;
 }
