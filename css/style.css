@@ -35,11 +35,13 @@
 	border-radius: 50px 50px 50px 50px / 50px 50px 50px 50px;;
 	height:300px;
 	width: 200px;
-	border-color: DodgerBlue;
+	border-color: #231676;
+	background-color: #3E3E3E;
+	color:aliceblue;
 }
 .card:hover{
 	transition: border-color 0.2s;
-	border-color: #062c3b;
+	border-color: dodgerblue;
 }
 .card_img{
 	height: 30%;
@@ -50,7 +52,7 @@
 	margin-right: 5%;
 }
 body{
-	background-image: linear-gradient(to right, darkgray , white 80%);
+	background-color: Gray;
 }
 
 .table{
