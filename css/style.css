@@ -39,7 +39,7 @@
 }
 .card:hover{
 	transition: border-color 0.2s;
-	border-color: Blue;
+	border-color: #062c3b;
 }
 .card_img{
 	height: 30%;
