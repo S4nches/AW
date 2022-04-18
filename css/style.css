@@ -30,7 +30,7 @@
 	height:100%
 }
 .card1{
-	margin-left: 3%;
+	margin-left: 0%;
 	border-style: solid;
 	height:300px;
 	width: 200px;
@@ -42,7 +42,7 @@
 	margin-bottom: 15%;
 }
 .card2{
-	margin-left: 3%;
+	margin-left: 8%;
 	border-style: solid;
 	height:300px;
 	width: 200px;
@@ -55,7 +55,7 @@
 	margin-bottom: 15%;
 }
 .card3{
-	margin-left: 3%;
+	margin-left: 8%;
 	border-style: solid;
 	height:300px;
 	width: 200px;
@@ -103,6 +103,7 @@ p + p {
 
 body{
 	background-color: Gray;
+	background-image: linear-gradient(to bottom, #515151 30%, lightgray, white );
 }
 
 .table{
